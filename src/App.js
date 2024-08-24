@@ -67,13 +67,13 @@ function App() {
             marginTop: 20,
           }}
         >
-          <span
+          <div
             style={{
               fontSize: 14,
             }}
           >
             {theme === "light" ? "🌞" : "🌜"}
-          </span>
+          </div>
         </div>
       </div>
 
