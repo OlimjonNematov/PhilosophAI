@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/PhilosophAI/static/css/main.fa4df27d.css",
-    "main.js": "/PhilosophAI/static/js/main.f4e77887.js",
+    "main.js": "/PhilosophAI/static/js/main.add29146.js",
     "static/js/453.419a5d54.chunk.js": "/PhilosophAI/static/js/453.419a5d54.chunk.js",
     "index.html": "/PhilosophAI/index.html",
     "main.fa4df27d.css.map": "/PhilosophAI/static/css/main.fa4df27d.css.map",
-    "main.f4e77887.js.map": "/PhilosophAI/static/js/main.f4e77887.js.map",
+    "main.add29146.js.map": "/PhilosophAI/static/js/main.add29146.js.map",
     "453.419a5d54.chunk.js.map": "/PhilosophAI/static/js/453.419a5d54.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fa4df27d.css",
-    "static/js/main.f4e77887.js"
+    "static/js/main.add29146.js"
   ]
 }
